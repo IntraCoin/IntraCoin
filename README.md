@@ -1,2 +1,2 @@
-# IndygoArt
-IndygoArt is a blockchain based marketplace for artists to sell their artwork at the most competitive rates in the business.
+# IntraCoin
+IntraCoin is a rewards and payments ERC20 based cryptocurrency
